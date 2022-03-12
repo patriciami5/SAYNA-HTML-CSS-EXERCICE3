@@ -1,0 +1,54 @@
+       .root{
+           font-family: 'Raleway', Arial, sans-serif ;
+           width: 100%;
+        }
+       .row_menu {
+            text-align: left; 
+            background-color: #27242b;
+        }
+        
+        .link {
+            color: teal;
+            text-decoration: underline;
+        }
+        
+        .row_title {
+            text-align: center;
+            background-color: #27242b;
+        }
+        button.row {
+            background-color: teal;
+           
+        }
+        
+        .text-uppercase {
+            color: teal;
+        }
+        .container_social_media{ 
+            background-color: #f7f7f7;
+        }
+        .container_social_media p{
+            color: teal;
+        }
+        .row_middle{
+            background-color: white;
+        }
+        .container_quote{
+            background-color: #27242b;
+            padding: 2%;
+        }
+        .blockquote{
+            color: white;
+            padding: 5%;
+        }
+        .blockquote-footer{
+            color: teal;
+            padding: 2%;
+        }
+        .container_row_screenshot{ 
+            width: 100%;
+            background-color: #f7f7f7;
+        }
+        .row_footer{
+            background-color:#f7f7f7;
+        }
